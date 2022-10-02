@@ -271,7 +271,7 @@ body {
 }
 
 .pros__title--hidden,
-.portfolio-main-section .hide {
+.portfolio .hide {
   visibility: hidden;
   margin: 0px auto;
   font-size: 0;
@@ -561,9 +561,7 @@ body {
   fill: var(--brand-color-main);
 }
 
-/* 
-FOOTER 
-*/
+/* FOOTER */
 
 .footer {
   background-color: var(--background-color-dark);
@@ -963,7 +961,7 @@ FOOTER
 }
 
 /* PORTFOLIO */
-.portfolio-main-section {
+.portfolio {
   padding-top: 94px;
   padding-bottom: 94px;
 }
